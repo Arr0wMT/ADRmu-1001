@@ -1,10 +1,10 @@
-# ADR1000 10V standard
+# ADR1001 10V standard
 
 ![rendering](https://github.com/marcoreps/ADRmu/raw/main/images/render.png)
 ![ppm over 24h](https://github.com/marcoreps/ADRmu/raw/main/images/24hppm.jpg)
 ![one year drift](https://github.com/marcoreps/ADRmu/raw/main/results/mu_vs_mean.png)
 
-## Scope
+## Scope (not up to date!!!)
 
 Low cost 10V DC reference standard in DIN 41612 modular enclosure. Based on ovenized LTZ1000 / LTZ1000A or ADR1000A zener diodes. Fits into standard 100x160mm project boxes too. The most promising strategies for configuring the zener and buffering the output are accommodated. Includes a high isolation DC-DC converter to attenuate the effects of common mode current.
 
